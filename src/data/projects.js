@@ -271,7 +271,7 @@ export const projects = [
     role: "Team lead · Full-stack developer · UI design",
     team: "Team of 5",
     stack: ["React", "Vite", "Node.js", "Express", "MySQL", "Axios", "SheetJS (xlsx)"],
-    links: { github: "https://github.com/kyleparas47-beep/algorithmproject", live: "" },
+    links: { github: "https://github.com/kyleparas47-beep/Class-Efficieny-Scheduling-System", live: "" },
     cover: {
       src: "/projects/class-efficiency-scheduling-system.webp",
       alt: "Scheduling system Courses page with a form to add a course and a section for importing courses from an Excel file",
@@ -330,7 +330,7 @@ export const projects = [
     role: "Team lead · Full-stack developer · UI design",
     team: "Team of 5",
     stack: ["PHP", "MySQL", "JavaScript", "HTML", "CSS", "QRCode.js", "html5-qrcode"],
-    links: { github: "https://github.com/kyleparas47-beep/webprog", live: "" },
+    links: { github: "https://github.com/kyleparas47-beep/Event-Calendar-System", live: "" },
     cover: {
       src: "/projects/event-calendar-system.webp",
       alt: "NUEvents landing page titled Event Calendar, National University Laguna, with campus event photos",
