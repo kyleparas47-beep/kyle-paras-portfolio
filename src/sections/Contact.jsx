@@ -75,24 +75,18 @@ export default function Contact() {
                 {site.email}
               </a>
             </li>
-            <li>
-              <a href={`tel:${site.phone.tel}`} onClick={() => copy("Phone", site.phone.display)}>
-                <span className="label">Phone</span>
-                {site.phone.display}
-              </a>
-            </li>
-            <li>
-              <span className="label">Location</span>
-              {site.location} · remote or on-site
-            </li>
             {socials.map((s) => (
               <li key={s.label}>
                 <a href={s.url} target="_blank" rel="noreferrer">
                   <span className="label">{s.label}</span>
-                  {s.url.replace(/^https?:\/\/(www\.)?/, "")} ↗
+                  {s.url.replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, "")} ↗
                 </a>
               </li>
             ))}
+            <li>
+              <span className="label">Location</span>
+              {site.location} · remote or on-site
+            </li>
           </ul>
         </div>
         <form className="mail-form card" onSubmit={submit}>

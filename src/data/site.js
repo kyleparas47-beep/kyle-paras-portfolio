@@ -5,14 +5,13 @@ export const site = {
   description:
     "4th-year Computer Science student in Laguna, PH. Full-stack web systems, UX/UI, and on-page SEO. Open to internships.",
   email: "kyleparas47@gmail.com",
-  phone: { display: "0960 250 3201", tel: "+639602503201" },
   location: "Calamba, Laguna, PH",
   resume: "/resume.pdf",
   // Hero photo in /public. A square cut-out (WebP or PNG with transparency), around 600px, works best; it's hidden if the file is missing.
   photo: { src: "/profile.webp", alt: "Portrait of Kyle Justine Paras" },
   socials: [
+    { label: "LinkedIn", url: "https://www.linkedin.com/in/kyle-justine-paras" },
     { label: "GitHub", url: "https://github.com/kyleparas47-beep" },
-    { label: "LinkedIn", url: "" },
   ],
 };
 
