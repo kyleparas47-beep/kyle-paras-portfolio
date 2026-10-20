@@ -38,7 +38,7 @@ export const highlights = [
 // "Tools & technologies" panel; group names are shown as small headings.
 export const tools = [
   { group: "Frontend", items: ["React", "JavaScript", "HTML", "CSS", "Vite"] },
-  { group: "Backend", items: ["Node.js", "Express", "PHP", "Python"] },
+  { group: "Backend", items: ["Node.js", "Express", "PHP", "Python", "Java"] },
   { group: "Data", items: ["MySQL", "MongoDB", "SQL"] },
   { group: "Workflow", items: ["Git", "GitHub", "VS Code"] },
 ];
