@@ -1,0 +1,2 @@
+# Netlify: serve the app for any route that isn't a real file (prerendered pages are served first).
+/*    /index.html   200
