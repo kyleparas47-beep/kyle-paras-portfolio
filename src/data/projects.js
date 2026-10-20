@@ -271,7 +271,7 @@ export const projects = [
     role: "Team lead · Full-stack developer · UI design",
     team: "Team of 5",
     stack: ["React", "Vite", "Node.js", "Express", "MySQL", "Axios", "SheetJS (xlsx)"],
-    links: { github: "https://github.com/kyleparas47-beep/Class-Efficieny-Scheduling-System", live: "" },
+    links: { github: "https://github.com/kyleparas47-beep/Class-Efficiency-Scheduling-System", live: "" },
     cover: {
       src: "/projects/class-efficiency-scheduling-system.webp",
       alt: "Scheduling system Courses page with a form to add a course and a section for importing courses from an Excel file",
