@@ -142,7 +142,7 @@ export const projects = [
     role: "ML / NLP model · Chat UI design",
     team: "Team of 2",
     stack: ["Python", "scikit-learn", "NLTK", "Flask", "Jupyter", "pandas", "JavaScript", "HTML / CSS"],
-    links: { github: "https://github.com/GerardLui/AskCampus-Chatbot", live: "" },
+    links: { github: "", live: "" },
     cover: {
       src: "/projects/askcampus-nlp-chatbot.webp",
       thumb: "/projects/askcampus-nlp-chatbot-card.webp",
