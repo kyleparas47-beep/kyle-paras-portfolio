@@ -392,4 +392,11 @@ export const otherProjects = [
     year: "2025",
     stack: ["Scratch"],
   },
+  {
+    title: "Flight Booking System",
+    description: "Backend for a flight booking system, built entirely in Java.",
+    role: "Backend logic (team of 2)",
+    year: "2024",
+    stack: ["Java"],
+  },
 ];
