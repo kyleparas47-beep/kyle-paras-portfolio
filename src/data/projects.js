@@ -25,7 +25,7 @@ export const projects = [
       "Undergraduate thesis testing whether a Graph Neural Network that links similar Filipino respondents can classify diabetes risk better than traditional machine-learning models, using national DOST-FNRI health survey data.",
     tags: ["Research", "AI / ML", "Python"],
     year: "2026",
-    role: "Co-researcher · data, modeling, evaluation & writing",
+    role: "Researcher · data, modeling, evaluation & writing",
     team: "Team of 2 · BS Computer Science thesis, NU Laguna",
     stack: ["Python", "PyTorch", "PyTorch Geometric", "scikit-learn", "pandas", "NumPy", "SciPy", "Matplotlib", "Google Colab"],
     links: { github: "", live: "" },
